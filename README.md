@@ -10,3 +10,5 @@ Gamebox Test project.
 Жанр: merge2.
 
 Сеттинг: фэнтези.
+
+Ссылка на собранный билд: https://1drv.ms/u/s!AopG3TukWqnLjNRt84XbuKmKAwo5bA?e=yFvwtw
