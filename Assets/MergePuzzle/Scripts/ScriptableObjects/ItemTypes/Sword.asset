@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4526fdff8e3e62944883cf799370a674, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  levelSprites:
+  - {fileID: 317818673, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: 30723106, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: -1997457640, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: -1412382096, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: 2099552003, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: -132321421, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: -1807711896, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}
+  - {fileID: 1459042613, guid: 86e500553580c6b439d93d43f1660d6b, type: 3}

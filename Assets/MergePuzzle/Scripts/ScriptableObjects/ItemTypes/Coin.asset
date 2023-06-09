@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4526fdff8e3e62944883cf799370a674, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  itemType: 4
+  levelSprites:
+  - {fileID: -1453079514, guid: 9d2254522afda6140bc197673e038f84, type: 3}
+  - {fileID: -1068199676, guid: 0bd67b92b0def6f4b9374496a287531f, type: 3}
+  - {fileID: -1942396194, guid: 31dfaa12242f59b4098326f3a2aed038, type: 3}
