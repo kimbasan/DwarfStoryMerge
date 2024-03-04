@@ -1,5 +1,5 @@
 # DwarfStoryMerge
-Gamebox Test project.
+Gamebox - тестовое заданиe для 1-го потока.
 
 Платформа: ПК.
 
